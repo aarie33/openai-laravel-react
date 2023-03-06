@@ -1,6 +1,4 @@
 import React, { useState } from 'react'
-import { Inertia } from '@inertiajs/inertia'
-import { Link } from '@inertiajs/inertia-react'
 import { useForm } from '@inertiajs/inertia-react'
 
 export default function Home(props) {
